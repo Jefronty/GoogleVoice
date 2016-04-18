@@ -1,5 +1,6 @@
 <?php
 /*
+Upgraded Aaron Parecki's original version of this class ~ https://github.com/aaronpk
 Upgraded by Kaddy Simba ~ https://simbamultimedia.com
 HTML DOM Class by S.C. Chen (me578022@gmail.com) ~ http://simplehtmldom.sourceforge.net/manual.htm#section_quickstart
 
